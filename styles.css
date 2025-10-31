@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Trebuchet MS, sans-serif;
+    background-color:#FFFFF0;
+    color: #adad06;
+    line-height: 1;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+input {
+    display: inline-block;
+}
+
+label {
+    padding-left: 320px;
+}
